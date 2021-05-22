@@ -1,4 +1,15 @@
-### Hi there 👋
+# Hi there! 👋
+My name is Danny and I am a software engineer at Microsoft in the Azure Security and Identity team. I was previously a member of the SONiC core team at Microsoft and worked on developing and maintaining new dataplane features and improving test automation infrastructure.
+
+Feel free to ask me about:
+- Distributed systems 💻
+- Networking 📍
+- Cloud computing 🌥️
+- CS education 🏫
+- Alpine climbing 🏔️
+- Baseball ⚾
+
+Find me on LinkedIn or drop me an email any time!
 
 <!--
 **daall/daall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
